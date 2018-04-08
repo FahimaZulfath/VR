@@ -135,6 +135,13 @@
       margin-bottom: 0px;
       color: #3a3d3c;
   }
+  slider { 
+    width:980px; height:418px; position:relative; overflow:hidden; }
+  slider-holder { width:980px; height:418px; position:relative; overflow:hidden; }
+  slider-holder ul{ width:980px; height:418px; position:relative; overflow:hidden; list-style-type: none;}
+  slider-holder .jcarousel-clip{ width:980px; height:418px; position:relative; overflow:hidden; }
+  slider-holder ul li{ width:980px; height:418px; position:relative; overflow:hidden; float:left; display:inline; }
+
   .slideanim {visibility:hidden;}
   .slide {
       animation-name: slide;
@@ -296,29 +303,17 @@
   </div><br>
   
   <h2>Techno Parties</h2>
-  <div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-    </ol>
-
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
-      <div class="item active">
-        <span><img source="https://assets.mofoprod.net/network/home-%402x.jpg" alt="Mozilla Global Sprint" width="400" height="200">
-</span
-      </div>
-      <div class="item">
-        <span><img source="http://www.smartchicagocollaborative.org/wp-content/uploads/2017/05/Quote-card.jpg" width="400" height="200">
-</span
-      </div>
-      <div class="item">
-        <h4>"Could I... BE any more happy with this company?"<br><span>Chandler Bing, Actor, FriendsAlot</span></h4>
-      </div>
-    </div>
-
+  		<div id="slider">
+			<div id="slider-holder">
+				<ul>
+				    <li><a href="#"><img src="css/images/slide1.jpg" alt="" /></a></li>
+				    <li><a href="#"><img src="css/images/slide2.jpg" alt="" /></a></li>
+				    <li><a href="#"><img src="css/images/slide1.jpg" alt="" /></a></li>
+				    <li><a href="#"><img src="css/images/slide2.jpg" alt="" /></a></li>
+				    <li><a href="#"><img src="css/images/slide1.jpg" alt="" /></a></li>
+				    <li><a href="#"><img src="css/images/slide2.jpg" alt="" /></a></li>
+				</ul>
+			</div>
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
