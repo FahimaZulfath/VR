@@ -108,8 +108,7 @@ The current list of labels are [here][link_labels] and include:
     
     These issues are likely to be asking for help from experts, either in terms of submitting or reviewing code, or simply providing guidance and advice.
     
-    If you're working on one of these issues you may need to read our [style guide](https://github.com/KirstieJane/STEMMRoleModels/blob/gh-pages/documentation/StyleGuide.md).
-
+    
 <br>
 
 * [![Get Together](https://img.shields.io/badge/-get%20together-feeda7.svg)][link_gettogether] These issues relate to planning meetings "in real life".
