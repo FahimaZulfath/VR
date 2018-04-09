@@ -25,3 +25,10 @@ Unsure where to begin contributing to SOHW? You can start by looking through the
 * **help wanted issues**: issues which should be a bit more involved than beginner issues.
 
 
+## Fork the Repository
+
+Be sure to add the relevant tests before making the pull request. Docs will be updated automatically when we merge to `master`, but you should also build the docs yourself and make sure they're readable.
+
+## Make the Pull Request
+
+Once you have made all your changes, tests, and updated the documentation, make a pull request to move everything back into the main branch of the `repository`. Be sure to reference the original issue in the pull request. Expect some back-and-forth with regards to style and compliance of these rules. If you are contributing for an issue, then please add the issue number in the comment while sending us a pull request.
