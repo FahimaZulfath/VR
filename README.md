@@ -1,6 +1,6 @@
 # SOHW - Spread Open Healthy Web
 
-[![license](https://img.shields.io/github/license/nhnent/tui.editor.svg)](https://github.com/SOHW/sohw.github.io/blob/master/LICENSE) [![PRs & issues welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/SOHW/sohw.github.io/issues)
+[![license(https://img.shields.io/github/license/nhnent/tui.editor.svg)](https://github.com/SOHW/sohw.github.io/blob/master/LICENSE) [![PRs/Issues(https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/SOHW/sohw.github.io/issues)
 
 ## Welcome!
 
