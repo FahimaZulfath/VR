@@ -52,7 +52,7 @@ The current list of labels are [here][link_labels] and include:
 
 <br>
 
-* [![No Code](https://img.shields.io/badge/-no%20code-207de5.svg)][link_nocode] These issues don't require any coding knowledge.
+* [![No Code](https://img.shields.io/badge/-no%20code-207de5.svg)](link_nocode) These issues don't require any coding knowledge.
     
     If you're looking to contribute but aren't very confident in your coding skills these issues are a great place to start.
     
@@ -60,7 +60,7 @@ The current list of labels are [here][link_labels] and include:
 
 <br>
 
-* [![Applications](https://img.shields.io/badge/-applications-d4c5f9.svg)][link_applications] These issues relate to applications and can include suggestions for future applications or a to do list for ongoing applications.
+* [![Applications](https://img.shields.io/badge/-applications-d4c5f9.svg)](link_applications) These issues relate to applications and can include suggestions for future applications or a to do list for ongoing applications.
     
     The label is intentionally broad: applications can be for anything from funding or membership of workshops etc.
 
@@ -68,7 +68,7 @@ The current list of labels are [here][link_labels] and include:
 
 <br>
 
-* [![Good First Bug](https://img.shields.io/badge/-good%20first%20bug-5319e7.svg)][link_goodfirstbug] These issues contain a task that anyone with any level of experience can help with.
+* [![Good First Bug](https://img.shields.io/badge/-good%20first%20bug-5319e7.svg)](link_goodfirstbug) These issues contain a task that anyone with any level of experience can help with.
     
     A major goal of the project is to have as many people as possible complete their very first [pull request][link_pullrequest] on one of these issues. They will always have explicit information on who to contact to help you through the process.
   
@@ -78,7 +78,7 @@ The current list of labels are [here][link_labels] and include:
 
 <br>
 
-* [![Help Wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)][link_helpwanted] These issues contain a task that a member of the team has determined we need additional help with.
+* [![Help Wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)](link_helpwanted) These issues contain a task that a member of the team has determined we need additional help with.
 
     If you have particular skills then consider reading through these issues as they are a great place to offer your expertise.
     
@@ -86,7 +86,7 @@ The current list of labels are [here][link_labels] and include:
     
 <br>
 
-* [![Bugs](https://img.shields.io/badge/-bugs-fc2929.svg)][link_bugs] These issues point to problems in the project.
+* [![Bugs](https://img.shields.io/badge/-bugs-fc2929.svg)](link_bugs) These issues point to problems in the project.
 
     If you find a bug, please give as much detail as possible in your issue.
     
@@ -94,15 +94,15 @@ The current list of labels are [here][link_labels] and include:
 
 <br>
 
-* [![Requests](https://img.shields.io/badge/-requests-fbca04.svg)][link_requests] These issues are asking for features (or anything else) to be added to the project.
+* [![Requests](https://img.shields.io/badge/-requests-fbca04.svg)](link_requests) These issues are asking for features (or anything else) to be added to the project.
 
-    If you have a good idea and would like to see it implemented in the STEMM Role Models project please open a new issue and add in as much detail as possible.
+    If you have a good idea and would like to see it implemented in the SOHW project please open a new issue and add in as much detail as possible.
     
     Please try to make sure that your feature is distinct from any others that have already been requested or implemented. If you find one that's similar but there are subtle differences please reference the other request in your issue.
 
 <br>
 
-* [![Front end development](https://img.shields.io/badge/-front%20end%20dev-f7c6c7.svg)][link_frontenddev] These issues relate front end development.
+* [![Front end development](https://img.shields.io/badge/-front%20end%20dev-f7c6c7.svg)](link_frontenddev) These issues relate front end development.
 
     From [wikipedia][link_frontenddev_wiki]: front end development, also known as client side development, is the practice of producing HTML, CSS and JavaScript for a website or web application so that a user can see and interact with them directly.
     
@@ -111,6 +111,6 @@ The current list of labels are [here][link_labels] and include:
     
 <br>
 
-* [![Get Together](https://img.shields.io/badge/-get%20together-feeda7.svg)][link_gettogether] These issues relate to planning meetings "in real life".
+* [![Get Together](https://img.shields.io/badge/-get%20together-feeda7.svg)](link_gettogether) These issues relate to planning meetings "in real life".
 
     If you have experience coordinating events and want to make sure we don't fall into common pitfalls please check out these issues and share your thoughts.
