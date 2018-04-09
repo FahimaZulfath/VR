@@ -35,17 +35,17 @@ Once you have made all your changes, tests, and updated the documentation, make 
 
 ## Labels 
 
-You can find all currently open conversations under the [issues tab][link_issues].
+You can find all currently open conversations under the [issues tab](link_issues).
 
-The current list of labels are [here][link_labels] and include:
+The current list of labels are [here](link_labels) and include:
 
-* [![Question](https://img.shields.io/badge/-question-cc317c.svg)][link_question] These issues are questions and represent a great place to start. Whomever has opened the issue wants to hear from you!
+* [![Question](https://img.shields.io/badge/-question-cc317c.svg)](link_question) These issues are questions and represent a great place to start. Whomever has opened the issue wants to hear from you!
 
     To reply, read the question and then respond in a variety of different ways:
     
-    * If you want to just agree with everything you can [react to the post][link_react] with one of :+1: :laugh: :heart: :tada:
+    * If you want to just agree with everything you can [react to the post](link_react) with one of :+1: :laugh: :heart: :tada:
     * Alternatively you could write a comment to:
-      * express your emotions more dramatically (check out this [cheat sheet][link_emojis] for emojis you might need)
+      * express your emotions more dramatically (check out this [cheat sheet](link_emojis) for emojis you might need)
       * provide a more nuanced description of your answer (using your words)
       * ask for a clarification
       * ask a follow up question
@@ -70,7 +70,7 @@ The current list of labels are [here][link_labels] and include:
 
 * [![Good First Bug](https://img.shields.io/badge/-good%20first%20bug-5319e7.svg)](link_goodfirstbug) These issues contain a task that anyone with any level of experience can help with.
     
-    A major goal of the project is to have as many people as possible complete their very first [pull request][link_pullrequest] on one of these issues. They will always have explicit information on who to contact to help you through the process.
+    A major goal of the project is to have as many people as possible complete their very first [pull request](link_pullrequest) on one of these issues. They will always have explicit information on who to contact to help you through the process.
   
     Remember: **There are no stupid questions!**
     
