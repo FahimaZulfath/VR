@@ -1,7 +1,7 @@
 # SOHW - Spread Open Healthy Web
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SOHW/sohw.github.io/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/SOHW/sohw.gihub.io/issues)
+[![open issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/SOHW/sohw.gihub.io/issues)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/SOHW/sohw.github.io/issues/new) 
 
 ## Welcome!
