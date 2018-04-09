@@ -10,7 +10,7 @@ This project adheres to a [Mozilla Community Guidelines](https://www.mozilla.org
 
 ## How can I contribute
 
-Hey buddy!! we are happy to see your curiosity towards working for [SOHW](https://sohw.github.io/). You can help us by reporting an issue when you found something not well or want to improvise in batter way. Or you find issues been already reported by few contribuotrs. If you find yourself having capability to solve any of the issue reported then you can fork the repositary, fix the bug and send us a pull request. If you expect something from our side or if this project does not fullfill you expectation, it's our pleasure to hear from you. Lets have a discussion on this in a chat.
+Hey buddy!! we are happy to see your curiosity towards working for [SOHW](https://sohw.github.io/). You can help us by reporting an issue, when you found something not well or want to improvise in a better way. Or you can look into the issues which is been already reported by few contribuotrs. If you find yourself having capability to solve any of the issue reported then you can comment the solution in the issue, fork the repositary, fix the bug and send us a pull request. If you want anything from our side, it's our pleasure to hear from you. Lets have a discussion on this in a chat, come and say ``Hi``.
 
 
 ### Reporting Bugs
