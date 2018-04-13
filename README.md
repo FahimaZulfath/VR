@@ -2,20 +2,21 @@
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SOHW/sohw.github.io/blob/master/LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/SOHW/sohw.github.io/issues/new) 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/SpreadOpenHealthyWeb/Forum/)
 
 ## Welcome!
 
 First and foremost! Thank you for visiting SOHW repository. We wish you successful deliberations and we are delighted to have you here. :)
 This page ([README](https://github.com/SOHW/sohw.github.io/blob/master/README.md) file) is a hub which provides the overall view of the project. 
 
-*	What it is?
-*	Why does this project exist?
-*	What we plan to do about it?
-*	How are we doing it?
-*	Contribution
-*	Participation Guidelines
-*	License
-*	Reach Us
+*	[What it is?](#what-it-is)
+*	[Why does this project exist?](#why-does-this-project-exist)
+*	[What we plan to do about it?](#what-we-plan-to-do-about-it)
+*	[How are we doing it?](#how-are-we-doing-it)
+*	[Contribution](#contribution)
+*	[Participation Guidelines](#participation-guidelines)
+*	[License](#license)
+*	[Reach Us](#reach-us)
 
 ## What it is?
 
@@ -44,7 +45,7 @@ We are developing a website where volunteers can share their resources in any fi
 
 ### Volunteers
 
-First of all, if you considering being a contributor/ volunteer, well! it's our pleasure to have you here as a pillar for us. Do you find that the resources for few topics are uncovered here or want to improvise (edit/ make changes in content) a learning material that are already been present? Or having something to share with a newcomer. Please have a look at our contribution guidelines. We are happy to hear from you, just say “Hi” here and let us know how you want the project to be. 
+First of all, if you considering being a contributor/ volunteer, well! it's our pleasure to have you here as a pillar for us. Do you find that the resources for few topics are uncovered here or want to improvise (edit/ make changes in content) a learning material that are already been present? Or having something to share with a newcomer. Please have a look at our contribution guidelines. We are happy to hear from you, just say ``Hi`` [here](https://gitter.im/SpreadOpenHealthyWeb/Forum/) and let us know how you want the project to be. 
 
 ### Newcomers
 
@@ -52,7 +53,7 @@ If you’re trying to learn something new and find it difficult to continue or e
 
 ## Contribution
 
-We need help to see our vision turn into reality. Any help, big or small, with the code, idea, suggestion, feedback, typo, anything at all that you think would be of help, is most welcome and much appreciated. If you’re interested in the project, feel free to open an [issue](https://github.com/SOHW/sohw.github.io/issues/new), create a PR, or just come say ''Hi'' and tell us more about yourself here.
+We need help to see our vision turn into reality. Any help, big or small, with the code, idea, suggestion, feedback, typo, anything at all that you think would be of help, is most welcome and much appreciated. If you’re interested in the project, feel free to open an [issue](https://github.com/SOHW/sohw.github.io/issues/new), create a PR, or just come say ''Hi'' and tell us more about yourself [here](https://gitter.im/SpreadOpenHealthyWeb/Forum/).
 
 ## Participation Guidelines
 Please read [CONTRIBUTING.md](https://github.com/SOHW/sohw.github.io/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
