@@ -15,7 +15,7 @@ This project adheres to a [Mozilla Community Guidelines](https://www.mozilla.org
 ## How can I contribute
 To contribute for SOHW, you always required a [GitHub account](https://github.com/). New to GitHub or contributing to open source for the first time? Check this small *free* course, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github). Each series take only 2-3 mins and you will find this useful.
 
-We know even before you start contributing that getting set up, to work on SOHW and finding a bug that's a good fit for your skills, can be a challenge. Go through our repo and the process going on. If you find anything weird, report it to us. We' re determined to solve hurdles all around to make you people comfortable.
+We know even before you start contributing that getting set up, to work on SOHW and finding a bug that's a good fit for your skills, can be a challenge. Go through our repo and the process going on. If you find anything weird, report it to us. We are determined to solve hurdles all around to make you people comfortable.
 
 ### Reporting Bugs
 Bugs are tracked as GitHub [issues](https://github.com/SOHW/sohw.github.io/issues/). We always say it as a friendly suggestions from your side for our improvements. A huge appreciation for you, since you are caring for us. 😍😇
@@ -128,3 +128,4 @@ The current list of labels are [here](link_labels) and include:
 * [![Get Together](https://img.shields.io/badge/-get%20together-feeda7.svg)](link_gettogether) These issues relate to planning meetings "in real life".
 
     If you have experience coordinating events and want to make sure we don't fall into common pitfalls please check out these issues and share your thoughts.
+
