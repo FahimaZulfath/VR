@@ -4,13 +4,17 @@ First off, thanks for taking the time to contribute! 🎉 ✨
 
 The following is a set of guidelines for contributing to SOHW. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
+* [Participation Guidelines](#participation-guidelines)
+* [How can I contribute?](#how-can-i-contribute)
+* [Labels](#labels)
+
 ## Participation Guidelines 
 
 This project adheres to a [Mozilla Community Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). By participating, you are expected to uphold this code. Please report unacceptable behavior to fahimazulfath.a@gmail.com.
 
 ## How can I contribute
 
-Hey buddy!! we are happy to see your curiosity towards working for [SOHW](https://sohw.github.io/). You can help us by reporting an issue, when you found something not well or want to improvise in a better way. Or you can look into the issues which is been already reported by few contribuotrs. If you find yourself having capability to solve any of the issue reported then you can comment the solution in the issue, fork the repositary, fix the bug and send us a pull request. If you want anything from our side, it's our pleasure to hear from you. Lets have a discussion on this in a chat, come and say ``Hi``.
+ we are happy to see your curiosity towards working for [SOHW](https://sohw.github.io/). You can help us by reporting an issue, when you found something not well or want to improvise in a better way. Or you can look into the issues which is been already reported by few contribuotrs. If you find yourself having capability to solve any of the issue reported then you can comment the solution in the issue, fork the repositary, fix the bug and send us a pull request. If you want anything from our side, it's our pleasure to hear from you. Lets have a discussion on this in a chat, come and say ``Hi``.
 
 
 ### Reporting Bugs
