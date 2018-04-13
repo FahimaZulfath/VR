@@ -45,11 +45,11 @@ We are developing a website where volunteers can share their resources in any fi
 
 ### Volunteers
 
-First of all, if you considering being a contributor/ volunteer, well! it's our pleasure to have you here as a pillar for us. Do you find that the resources for few topics are uncovered here or want to improvise (edit/ make changes in content) a learning material that are already been present? Or having something to share with a newcomer. Please have a look at our contribution guidelines. We are happy to hear from you, just say ``Hi`` [here](https://gitter.im/SpreadOpenHealthyWeb/Forum/) and let us know how you want the project to be. 
+First of all, if you considering being a contributor/ volunteer, well! it's our pleasure to have you here as a pillar for us. Do you find that the resources for few topics are uncovered here or want to improvise (edit/ make changes in content) a learning material that are already been present? Or having something to share with a newcomer. Please have a look at our [contribution guidelines](#participation-guidelines). 
 
 ### Newcomers
 
-If you’re trying to learn something new and find it difficult to continue or even begin, then we’re here to help you. Please visit our SOHW website and have a look at the resources written by our contributors. If you find it difficult to understand a resource, no issues!! feel free to reach us. We will help you to get connect with the author or with the team directly to clarify your doubts. So, that you can come up and even you can volunteer by writing the same content in much more simple way. We welcome you and always be there for your initials steps that you are taking towards the tech industry. 😊
+If you’re trying to learn something new and find it difficult to continue or even begin, then we’re here to help you.  If you find it difficult to understand a resource at [SOHW](https://sohw.github.io/), feel free to [reach us](#reach-us). We will help you to get connect with the author/mentor or with the team directly to clarify your doubts. So, that you can come up and even you can volunteer by writing the same content in much more simple way. We welcome you and we will be always there for your initials steps that you are taking towards the tech industry. 😊
 
 ## Contribution
 
@@ -64,7 +64,7 @@ This project is licensed under the MIT License - you can see [LICENSE](https://g
 
 ## Reach Us
 
-If you have anything to share, feel free to drop by the SOHW room on Gitter and say hi. We would love to hear from you. You can also contact Fahima Zulfath by email (fahimazulfath [dot] a [at] gmail [dot] com) or on [Twitter](https://twitter.com/FahimaZulfath).
+SOHW prides itself on being an open, accessible, and friendly community for every participants here. Is there anything to share or having any idea, feel free to bring it to our chat room on [Gitter](https://gitter.im/SpreadOpenHealthyWeb/Forum/) and just say `Hi!`. We would love to hear from you. You can also contact Fahima Zulfath by email (fahimazulfath [dot] a [at] gmail [dot] com) or on [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/FahimaZulfath.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2FFahimaZulfath).
 
 Thank you for your interest. Have a nice day!
 
