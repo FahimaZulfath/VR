@@ -13,12 +13,12 @@ The following is a set of guidelines for contributing to SOHW. These are mostly 
 This project adheres to a [Mozilla Community Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). By participating, you are expected to uphold this code. Please report unacceptable behavior to fahimazulfath.a@gmail.com.
 
 ## How can I contribute
+To contribute for SOHW, you always required a [GitHub account](https://github.com/). New to GitHub or contributing to open source for the first time? Check this small *free* course, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github). Each series take only 2-3 mins and you will find this useful.
 
- we are happy to see your curiosity towards working for [SOHW](https://sohw.github.io/). You can help us by reporting an issue, when you found something not well or want to improvise in a better way. Or you can look into the issues which is been already reported by few contribuotrs. If you find yourself having capability to solve any of the issue reported then you can comment the solution in the issue, fork the repositary, fix the bug and send us a pull request. If you want anything from our side, it's our pleasure to hear from you. Lets have a discussion on this in a chat, come and say ``Hi``.
-
+We know even before you start contributing that getting set up, to work on SOHW and finding a bug that's a good fit for your skills, can be a challenge. Go through our repo and the process going on. If you find anything weird, report it to us. We' re determined to solve hurdles all around to make you people comfortable.
 
 ### Reporting Bugs
-Bugs are tracked as GitHub [issues](https://github.com/SOHW/sohw.github.io/issues/). We always say it as a friendly suggestions from your side for our improvements. A huge appreciation for you, since you are caring for us. :3:
+Bugs are tracked as GitHub [issues](https://github.com/SOHW/sohw.github.io/issues/). We always say it as a friendly suggestions from your side for our improvements. A huge appreciation for you, since you are caring for us. 😍😇
 
 When you create an issue, please provide the following information by filling in the template.
 
@@ -29,14 +29,23 @@ When you create an issue, please provide the following information by filling in
 * **Explain which behavior you expected to see instead and why.**
 * **Include screenshots and animated GIFs** which show you following the described steps and clearly demonstrate the problem.
 
+### Fixing the bug/ working on issues
+Bugs listed as ``Assigned`` are not usually a good place to start, unless you're sure you have something worthy to contribute. Someone else is already working on it! Even with no assignee, it is polite to check if someone has recently commented that they're looking at fixing the issue.
+
+Once you have found something to work on, go ahead and comment! Let the bug submitter, reviewer, and component owner know that you'd like to work on the bug. You might receive some extra information, perhaps also made the assignee.
 
 ### Fork the Repository
 
-Be sure to add the relevant tests before making the pull request. Docs will be updated automatically when we merge to `master`, but you should also build the docs yourself and make sure they're readable.
-
-### Make the Pull Request
-
+**[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
+**[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes.
+ 
 Once you have made all your changes, tests, and updated the documentation, make a pull request to move everything back into the main branch of the `repository`. Be sure to reference the original issue in the pull request. Expect some back-and-forth with regards to style and compliance of these rules. If you are contributing for an issue, then please add the issue number in the comment while sending us a pull request.
+ 
+ ### Make the Pull Request
+
+**Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
+
+Be sure to add the relevant tests before making the pull request. Docs will be updated automatically when we merge to `master`, but you should also build the docs yourself and make sure they're readable.
 
 ## Labels 
 
