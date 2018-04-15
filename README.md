@@ -22,7 +22,7 @@ This page ([README](https://github.com/SOHW/sohw.github.io/blob/master/README.md
 
 SOHW is an open project seeks to bring the culture of openness among people, to come forward and share their technical skills with diverse set of people. The project is designed to guide people who joined the web with keen interest to update themselves towards the current trend by learning or to develop something for the betterment of the web.
 
-*Note: This project is being developed under the Mozilla Open Leadership Program, Round 5 and mentored by [Pranshu Khanna]().*
+*Note: This project is being developed under the Mozilla Open Leadership Program, Round 5 and mentored by [Pranshu Khanna](). We used [Jekyll](https://jekyllrb.com/) with github to develop your website*
 
 ## Why does this project exist?
 
